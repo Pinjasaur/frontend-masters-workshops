@@ -2,13 +2,13 @@
 
 With [Todd Gardner](https://toddhgardner.com/). :)
 
-GitHub repository: <https://github.com/toddhgardner/fundametals-of-web-performance>
-Slides part 1: <https://static.frontendmasters.com/resources/2024-09-26-web-perf-v2/web-perf-v2-slides_part1.pdf>
+GitHub repository: <https://github.com/toddhgardner/fundametals-of-web-performance>  
+Slides part 1: <https://static.frontendmasters.com/resources/2024-09-26-web-perf-v2/web-perf-v2-slides_part1.pdf>  
 Slides part 2: <https://static.frontendmasters.com/resources/2024-09-26-web-perf-v2/web-perf-v2-slides_part2.pdf>
 
 Web performance definition:
 
-> The **speed** and **efficiency** with wh ich a website loads, renders, and
+> The **speed** and **efficiency** with wh =ich a website loads, renders, and
 > responds to interactions from the visitors.
 
 What does slow feel like?
