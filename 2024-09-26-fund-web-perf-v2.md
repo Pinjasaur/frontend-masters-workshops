@@ -8,7 +8,7 @@ Slides part 2: <https://static.frontendmasters.com/resources/2024-09-26-web-perf
 
 Web performance definition:
 
-> The **speed** and **efficiency** with wh =ich a website loads, renders, and
+> The **speed** and **efficiency** with which a website loads, renders, and
 > responds to interactions from the visitors.
 
 What does slow feel like?
